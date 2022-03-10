@@ -1,7 +1,6 @@
 package ro.ase.acs;
 
 import java.lang.reflect.InvocationTargetException;
-import java.sql.Connection;
 
 import ro.ase.acs.contracts.Operation;
 
